@@ -1,0 +1,23 @@
+WADHAALI,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+WADHAALI,Wadha,(Food Photographer),:00,500 SAR,Food Photographer
+WADHAALI,Wadha,(Food Photographer),5:00,500 SAR,Food Photographer
+WADHAALI,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+1,Amasi,(Event Photographer),8:00,700 SAR,Event Photographer
+1,Amasi,(Event Photographer),6:00,700 SAR,Event Photographer
+1,Food Photography,Online Lessons Recorded,Instructor: Wadha,Amount: 800 SAR,Course
+amasi,Amasi,(Event Photographer),7:00,700 SAR,Event Photographer
+amasi,Wadha,(Food Photographer),8:00,500 SAR,Food Photographer
+amasi,Food Photography,Online Lessons Recorded,Instructor: Wadha,Amount: 800 SAR,Course
+amasi,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+Shahad,Amasi,(Event Photographer),6:09,700 SAR,Event Photographer
+Shahad,Instructor: Wadha,Food Photography,Online Lessons Recorded,Amount: 800 SAR,Course
+Shahad,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+sara,Wadha,(Food Photographer),3:07,500 SAR,Food Photographer
+wadha,Wadha,(Food Photographer),9:00,500 SAR,Food Photographer
+wadha,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+Anwaar,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
+yara,Instructor: Wadha,Food Photography,Online Lessons Recorded,Amount: 800 SAR,Course
+Shahad,Wadha,(Food Photographer),3:07,500 SAR,Food Photographer
+WADHAALI,Wadha,(Food Photographer),3:00PM,500 SAR,Food Photographer
+WADHAALI,Instructor: Wadha,Food Photography,Online Lessons Recorded,Amount: 800 SAR,Course
+WADHAALI,Instructor: Amasi,Product(Jewelry), Ash Cafe 4-8 pm 4/12/2022,Amount: 350 SAR,Course
